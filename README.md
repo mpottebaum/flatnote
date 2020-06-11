@@ -2,16 +2,15 @@
 
 Flatnote is a note-taking app that allows users to easily filter notes by multiple tags.
 
+[Full Demo](https://www.youtube.com/watch?v=reKIlvSAIFo&feature=youtu.be)
+
+![Flatnote demo](https://j.gifs.com/YWJMM9.gif)
+
 I implemented user authentication and authorization by integrating JSON Web Tokens and BCrypt with localStorage.
 
 I built the front end using React with Redux, React Router, and React Bootstrap.
 
 I built the API using Rails with PostgreSQL and ActiveRecord.
-
-[Full Demo](https://www.youtube.com/watch?v=reKIlvSAIFo&feature=youtu.be) | [API Repo](https://github.com/mpottebaum/flatnote-backend)
-
-![Flatnote demo](https://j.gifs.com/YWJMM9.gif)
-
 
 ## Installing Flatnote
 
