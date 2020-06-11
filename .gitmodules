@@ -1,0 +1,3 @@
+[submodule "flatnote-frontend"]
+	path = flatnote-frontend
+	url = https://github.com/mpottebaum/flatnote-frontend
